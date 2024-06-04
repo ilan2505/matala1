@@ -18,29 +18,29 @@ and then :
 
 ## 1) > and >>
 <p align="center">
-  <img align="center" width=40% src = "https://github.com/ilan2505/matala1/assets/55143087/d4f3fcfb-fb57-413a-b132-649d06701d14"/>
+  <img align="center" width=60% src = "https://github.com/ilan2505/matala1/assets/55143087/d4f3fcfb-fb57-413a-b132-649d06701d14"/>
 </p>
 <p align="center">
-  <img align="center" width=40% src = "https://github.com/ilan2505/matala1/assets/55143087/a947e81d-0535-4ea6-87e0-abe96c11f66f"/>
+  <img align="center" width=60% src = "https://github.com/ilan2505/matala1/assets/55143087/a947e81d-0535-4ea6-87e0-abe96c11f66f"/>
 </p>
 <p align="center">
-  <img align="center" width=50% src = "https://github.com/ilan2505/matala1/assets/55143087/f93e91ec-7b83-4d30-bcfd-2c6ed68a67ef"/>
+  <img align="center" width=60% src = "https://github.com/ilan2505/matala1/assets/55143087/f93e91ec-7b83-4d30-bcfd-2c6ed68a67ef"/>
 </p>
 <p align="center">
-  <img align="center" width=50% src = "https://github.com/ilan2505/matala1/assets/55143087/c42fcd63-ddb3-4ecf-b4de-9f053860942b"/>
+  <img align="center" width=60% src = "https://github.com/ilan2505/matala1/assets/55143087/c42fcd63-ddb3-4ecf-b4de-9f053860942b"/>
 </p>
 
 ### an other exemple of >> :
 <p align="center">
-  <img align="center" width=50% src = "https://github.com/ilan2505/matala1/assets/55143087/c22eef90-4022-4306-8920-078186b01622"/>
+  <img align="center" width=60% src = "https://github.com/ilan2505/matala1/assets/55143087/c22eef90-4022-4306-8920-078186b01622"/>
 </p>
 <p align="center">
-  <img align="center" width=50% src = "https://github.com/ilan2505/matala1/assets/55143087/de300ee2-e993-4f27-995b-4cb0ec9b2e78"/>
+  <img align="center" width=60% src = "https://github.com/ilan2505/matala1/assets/55143087/de300ee2-e993-4f27-995b-4cb0ec9b2e78"/>
 </p>
 
 ## 2) Command to change the cursor (prompt)
 <p align="center">
-  <img align="center" width=60% src = "https://github.com/ilan2505/matala1/assets/55143087/0e8775de-4788-46c6-a0d2-855add3dffc5"/>
+  <img align="center" width=70% src = "https://github.com/ilan2505/matala1/assets/55143087/0e8775de-4788-46c6-a0d2-855add3dffc5"/>
 </p>
 We can see that we change from "myshell" to "hey".
 
@@ -100,6 +100,15 @@ finds all .c files, displays their sizes and sorts them by size :
 </p>
 
 ## 12) Support flow control :IF/ELSE.
+### Exemple num 1 : if a file.txt exist or not
+<p align="center">
+  <img align="center" width=50% src = "https://github.com/ilan2505/matala1/assets/55143087/162c6878-dfef-4b43-afc3-15a7a82db2aa"/>
+</p>
+
+### Exemple num 2 : if the date is Friday or not
+<p align="center">
+  <img align="center" width=50% src = "https://github.com/ilan2505/matala1/assets/55143087/6ebf52f8-7579-41c3-95ea-d1704f3a80a6"/>
+</p>
 
 ## Run exemple from the task1.pdf
 <p align="center">
