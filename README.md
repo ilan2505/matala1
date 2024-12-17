@@ -1,7 +1,7 @@
 # Ex2
 # Authors : 
-* Souffir Ilan Meyer : 342615648
-* Boritsky Jonatan : 207254194
+* Souffir Ilan Meyer
+* Boritsky Jonatan
 
 ## Subject of Ex2 :
 In this task you should train data structures and threading skills.
